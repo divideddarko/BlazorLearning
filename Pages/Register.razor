@@ -1,0 +1,36 @@
+@page "/Register"
+@using Blazor_Site_One.newUser
+
+<h1>Register Profile</h1>
+
+<p>Welcome please come join</p>
+
+<EditForm Model="@newUser" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <p>
+        <label>
+            Username:
+            <InputText @bind-Value="newUser.Username" />
+        </label>
+    </p>
+
+    <p>
+        <label>
+            Email:
+            <InputText @bind-Value="newUser.Email" />
+        </label>
+    </p>
+
+    <button type="submit">Submit</button>
+</EditForm>
+@* <button class="btn btn-primary" @onclick="IncrementCount">Click me</button> *@
+
+@code {
+    private newUser newUser = new newUser();
+
+    private void HandleValidSubmit(){
+        Console.WriteLine("onValidSubmit");
+    }
+}

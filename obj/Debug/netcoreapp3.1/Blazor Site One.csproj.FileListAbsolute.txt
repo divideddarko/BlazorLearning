@@ -1,0 +1,53 @@
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\Blazor Site One.exe
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\Blazor Site One.deps.json
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\Blazor Site One.runtimeconfig.json
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\Blazor Site One.runtimeconfig.dev.json
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\Blazor Site One.dll
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\Blazor Site One.pdb
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\Blazor Site One.Views.dll
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\bin\Debug\netcoreapp3.1\Blazor Site One.Views.pdb
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.csprojAssemblyReference.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.csproj.CoreCompileInputs.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.RazorComponent.input.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor Site One.dll
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.TagHelpers.input.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.TagHelpers.output.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.RazorCoreGenerate.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.RazorAssemblyInfo.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.RazorAssemblyInfo.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.AssemblyInfoInputs.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.AssemblyInfo.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.RazorTargetAssemblyInfo.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.RazorTargetAssemblyInfo.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.Views.pdb
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\staticwebassets\Blazor Site One.StaticWebAssets.Manifest.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\staticwebassets\Blazor Site One.StaticWebAssets.xml
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.dll
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.pdb
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.genruntimeconfig.cache
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Blazor Site One.csproj.CopyComplete
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\sbarton25\Documents\Web Development\Learning\Blazor Site One\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
